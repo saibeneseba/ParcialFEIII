@@ -1,7 +1,7 @@
 
 
 const Card = () => {
-  return <div>Hola, soy una tarjeta</div>;
+  return <div>Tarjeta inicial</div>;
 };
 
 
